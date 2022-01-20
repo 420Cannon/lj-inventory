@@ -46,21 +46,21 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 ### simple guideline psd provided (found in main directory lj-inventory) [WATCH HOW TO](https://youtu.be/EAe7PgPq1zs)
 ![lj-inventory Guideline](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
 ### full inventory
-![full inventory](https://user-images.githubusercontent.com/91661118/146315750-1199a37e-88e0-4d48-86d3-ae0b85df6a72.png)
+![full inventory](https://cdn.discordapp.com/attachments/673205636875681813/933829042308776036/unknown.png)
 ### options menu
-![options menu](https://user-images.githubusercontent.com/91661118/147011228-ee6c9c0c-0058-4418-8c5f-c484f2f621f7.png)
+![options menu](https://cdn.discordapp.com/attachments/673205636875681813/933829109216346202/unknown.png)
 ### help box
-![help box](https://user-images.githubusercontent.com/91661118/147011242-bb98e650-12c4-43d9-9a93-afa8edcecd90.png)
+![help box](https://cdn.discordapp.com/attachments/673205636875681813/933829818728996874/unknown.png)
 ### hotbar slots
-![hotbar slots](https://user-images.githubusercontent.com/91661118/146315788-3af800e4-af26-4e9a-85be-bd0035689b70.png)
+![hotbar slots](https://cdn.discordapp.com/attachments/673205636875681813/933830016045830205/unknown.png)
 ### used & removed itembox 
-![used & removed itembox](https://user-images.githubusercontent.com/91661118/146315886-f488cc39-7e2a-4186-8ab9-4f9540ff6575.png)
+![used & removed itembox](https://cdn.discordapp.com/attachments/673205636875681813/933830701894230127/unknown.png)
 ### inventory shops
-![inventory shops](https://user-images.githubusercontent.com/91661118/146316063-1111699b-691d-482a-8bf0-6070f1485614.png)
+![inventory shops](https://cdn.discordapp.com/attachments/673205636875681813/933830972447817819/unknown.png)
 ### inventory glovebox
-![inventory glovebox](https://user-images.githubusercontent.com/91661118/146316143-5d554103-e331-4ad0-a7e1-af44f76b5f36.png)
+![inventory glovebox](https://cdn.discordapp.com/attachments/673205636875681813/933831876613922816/unknown.png)
 ### inventory trunk
-![inventory trunk](https://user-images.githubusercontent.com/91661118/146316079-b0260b68-78c0-4266-976d-a527264491f3.png)
+![inventory trunk](https://cdn.discordapp.com/attachments/673205636875681813/933831993077157948/unknown.png)
 
 # Change Logs
 
